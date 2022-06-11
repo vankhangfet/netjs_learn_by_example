@@ -16,13 +16,15 @@ $ npm install
 
 Note: In this project, we need to install package as below:
 
-To install PostgreSQL package, use the below command
+1. To install PostgreSQL package, use the below command
 ```bash
 npm install pg --save
 ```
-Support Open API. Please see below: 
+2. To support Open API. Please see below: 
 https://docs.nestjs.com/openapi/introduction
-
+```bash 
+$ npm install --save @nestjs/swagger swagger-ui-express
+```
 
 ## Running the app
 

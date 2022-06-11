@@ -14,6 +14,16 @@ You can visit as below for more detailed about Nest
 $ npm install
 ```
 
+Note: In this project, we need to install package as below:
+
+To install PostgreSQL package, use the below command
+```bash
+npm install pg --save
+```
+Support Open API. Please see below: 
+https://docs.nestjs.com/openapi/introduction
+
+
 ## Running the app
 
 ```bash

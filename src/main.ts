@@ -6,8 +6,8 @@ async function bootstrap() {
   const app = await NestFactory.create(AppModule);
 
   const config = new DocumentBuilder()
-    .setTitle('NetJs learning by example')
-    .setDescription('The Production API description')
+    .setTitle('NestJs learn by example')
+    .setDescription('The Production API ')
     .setVersion('1.0')
     .addTag('production')
     .build();

@@ -1,0 +1,11 @@
+{
+    "type": "postgres",
+    "host": "db.axmcabyvewmjgdrlswcr.supabase.co",
+    "port": 5432,
+    "username": "postgres",
+    "password": "Qwertyuiop@123Zxcasd",
+    "database": "postgres",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true,
+    "autoLoadEntities": true
+  }
